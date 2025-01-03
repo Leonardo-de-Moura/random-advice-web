@@ -1,0 +1,15 @@
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(144, 138, 138),
+    rgb(51, 47, 47));
+}
+.container {
+  max-width: 70%;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(173, 145, 251, 0.637);
+  border-radius: 15px;
+  margin-top: 180px;
+}
