@@ -1,4 +1,4 @@
-#Aplicativo de Conselhos Aleatórios#
+#Aplicativo de Conselhos Aleatórios
 
 
 Um aplicativo web simples construído com HTML, CSS e JavaScript que exibe conselhos aleatórios obtidos de uma API externa. Ótimo para praticar integração com APIs e construir aplicações web dinâmicas.
