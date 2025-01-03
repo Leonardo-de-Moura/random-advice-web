@@ -57,7 +57,7 @@ Exemplo de resposta:
 
 Estrutura do Projeto
 
-aplicativo-conselhos-aleatorios/
+random-advice-web/
 ├── index.html          # Arquivo HTML principal
 ├── style.css           # Arquivo de estilos do aplicativo
 ├── script.js           # Arquivo JavaScript para integração com a API
