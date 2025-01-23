@@ -10,7 +10,7 @@ async function fetchdata() {
     }
 
     const data = await response.json();
-  
+
     document.getElementById("advice").textContent = data.slip.advice;
   } catch (error) {
     console.error("erro ao buscar dados");
